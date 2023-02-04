@@ -1,4 +1,4 @@
-# DSA
+# DSA :grinning:
 A record of DSA questions, from the Love Babbar and Striver's 450 List.
 
 # List of perks
