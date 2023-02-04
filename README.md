@@ -1,5 +1,5 @@
 # DSA
-A record of DSA questions I solve
+A record of DSA questions, from the Love Babbar and Striver's 450 List.
 
 # List of perks
 - Organised topic wise folders
