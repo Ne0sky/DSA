@@ -28,5 +28,5 @@ A record of DSA questions, from the Striver's A-to-Z List.
 - [ ] Tries
 - [ ] String [Hard]
 
- Hoping to continue working on this repository with passion and consistency .. 
+ Hoping to continue working on this repository with passion and consistency <br> 
  Anyone is welcome to contribute towards the solutions.
