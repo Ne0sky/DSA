@@ -1,0 +1,20 @@
+class Solution{   
+public:
+    // Function to reverse arr[] from index start to end
+    void reverse(int arr[], int start, int end) {
+        while (start <= end) {
+            swap(arr[start],arr[end]);
+            start++;
+            end--;
+        }
+    }
+
+    // Function to left rotate arr[] of size n by d 
+    void leftRotate(int arr[], int n, int k) 
+	{ 
+	    k=k%n;
+	    reverse(arr,0,k-1);
+	    reverse(arr,k,n-1);
+	    reverse(arr,0,n-1);
+	} 
+};
